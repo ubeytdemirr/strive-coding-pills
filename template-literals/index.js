@@ -5,7 +5,5 @@ const message = `
     Whats up ?
 
 `
- 
-console.log(message)
 
- 
+console.log(message)
