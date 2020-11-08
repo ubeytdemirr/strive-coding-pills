@@ -4,6 +4,6 @@ const message = `
     Hello ${name}
     Whats up ?
 
-`
+`;
 
-console.log(message)
+console.log(message);
